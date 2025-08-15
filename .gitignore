@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+
+# jupyter notebook checkpoints
+*.ipynb_checkpoints
+
+# environment variables
+*.env
+
+# ignore video and audio files
+*.mp4
+*.mp3
+videos
+
